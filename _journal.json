@@ -1,0 +1,20 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1795285601609,
+      "tag": "0000_create_consultation_requests",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1795287643256,
+      "tag": "0001_create_referrals_and_triage_queue",
+      "breakpoints": true
+    }
+  ]
+}
